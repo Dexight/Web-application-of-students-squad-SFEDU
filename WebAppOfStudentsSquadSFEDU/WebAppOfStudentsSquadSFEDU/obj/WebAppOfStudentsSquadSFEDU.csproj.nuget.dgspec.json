@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kalsa\\Source\\Repos\\Web-application-of-students-squad-SFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU.csproj": {}
+    "C:\\Users\\LastHero\\Source\\Repos\\Web-application-of-students-squad-SFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kalsa\\Source\\Repos\\Web-application-of-students-squad-SFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU.csproj": {
+    "C:\\Users\\LastHero\\Source\\Repos\\Web-application-of-students-squad-SFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalsa\\Source\\Repos\\Web-application-of-students-squad-SFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU.csproj",
+        "projectUniqueName": "C:\\Users\\LastHero\\Source\\Repos\\Web-application-of-students-squad-SFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU.csproj",
         "projectName": "WebAppOfStudentsSquadSFEDU",
-        "projectPath": "C:\\Users\\kalsa\\Source\\Repos\\Web-application-of-students-squad-SFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU.csproj",
-        "packagesPath": "C:\\Users\\kalsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalsa\\Source\\Repos\\Web-application-of-students-squad-SFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU\\obj\\",
+        "projectPath": "C:\\Users\\LastHero\\Source\\Repos\\Web-application-of-students-squad-SFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU.csproj",
+        "packagesPath": "C:\\Users\\LastHero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LastHero\\Source\\Repos\\Web-application-of-students-squad-SFEDU\\WebAppOfStudentsSquadSFEDU\\WebAppOfStudentsSquadSFEDU\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kalsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LastHero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
